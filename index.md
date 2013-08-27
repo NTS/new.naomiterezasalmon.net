@@ -4,7 +4,6 @@ tagline:
 layout: default
 ---
 
-# Hello
 
 Check out [Human Dollz](http://www.humandollz.com/), Barking Dogs United
 new project. 
