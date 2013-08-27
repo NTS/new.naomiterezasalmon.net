@@ -4,12 +4,9 @@ tagline:
 layout: default
 ---
 
+![nts](cv/nts.jpg)   
 
-
- ![nts1 (34K)](cv/nts.jpg)   
-  
-  
- Naomi Tereza Salmon, born 1965 in Jerusalem, Israel. Photography
+Naomi Tereza Salmon, born 1965 in Jerusalem, Israel. Photography
 studies at the Hadassah College, Jerusalem and the MFA program "Public
 Art and new artistic Strategies" at the Bauhaus university, Weimar.
 Lives and works in Germany. Her works combine photography, video, sound
@@ -24,6 +21,6 @@ station ‚Radio Lotte' in Weimar. Since 2005 she is a member of the
 artist Duo "Barking Dogs United".   
   
   
- [Exhibitions/performances](cv/exhibitions.html) ----------
-[Bibliography](cv/bibliography.html) ---------- [Works in
-collections](cv/collections.html)
+- [Exhibitions/performances](cv/exhibitions.html)
+- [Bibliography](cv/bibliography.html)
+- [Works in collections](cv/collections.html)
